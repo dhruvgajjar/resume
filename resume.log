@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.13)  15 FEB 2024 11:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.13)  15 FEB 2024 16:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -555,13 +555,13 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
 (Font)              scaled to size 6.0pt on input line 143.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 192.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 203.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 10.95pt on input line 192.
+(Font)              scaled to size 10.95pt on input line 203.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 192.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 203.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 192.
+(Font)              scaled to size 10.0pt on input line 203.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -581,13 +581,13 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 Here is how much of TeX's memory you used:
  11995 strings out of 474542
  192644 string characters out of 5744446
- 1956978 words of memory out of 5000000
+ 1960978 words of memory out of 5000000
  34045 multiletter control sequences out of 15000+600000
  700827 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,80p,451b,458s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,80p,424b,458s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/dhruv/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb><C:/Users/dhruv/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-BoldIt.pfb><C:/Users/dhruv/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb><C:/Users/dhruv/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb><C:/Users/dhruv/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/dhruv/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on resume.pdf (1 page, 252577 bytes).
+Output written on resume.pdf (1 page, 252519 bytes).
 PDF statistics:
  65 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 500000)
