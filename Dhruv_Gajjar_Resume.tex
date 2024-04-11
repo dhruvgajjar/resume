@@ -62,8 +62,9 @@
 % Ensure that generate pdf is machine readable/ATS parsable
 \pdfgentounicode=1
 
-%-------------------------
-% Custom commands
+%---------------------------------------------------------------- 
+%                      Custom commands
+%----------------------------------------------------------------
 \newcommand{\resumeItem}[1]{
   \item\small{
     {#1 \vspace{-2pt}}
@@ -88,7 +89,7 @@
 \newcommand{\educationSubheading}[3]{
   \vspace{-2pt}\item
     \begin{tabular*}{0.98\textwidth}[t]{l@{\extracolsep{\fill}}r}
-      \textbf{\small#1} - \textit{\small#2} & \textbf{\textit{\small#3}} \\
+      \textbf{\small#1} - {\small#2} & \textbf{\textit{\small#3}} \\
     \end{tabular*}\vspace{-7pt}
 }
 
@@ -110,8 +111,12 @@
 \newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=0.15in]}
 \newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-10pt}}
 
-%-------------------------------------------
-%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%                      %%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%                      %%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 \begin{document}
@@ -134,10 +139,13 @@
 
 %-----------EXPERIENCE-----------
 \section{\textbf{EXPERIENCE}}
+
+    % Amgen/Horizon
     \resumeHeadingListStart
       \resumeSubheading{Amgen (Formerly Horizon Therapeutics)}{Deerfield, IL}
     \resumeHeadingListEnd
         \resumeSubHeadingListStart
+            % Data Engineer II
             \resumeSubSubheading {Data Engineer II, Data Science}{Jul 2022 - Present}
               \resumeItemListStart
                 \resumeItem{spearheaded Entity resolution for patient date…got published pmsa…neo4j…researched algos…used for leads and targeting for reps and lead to X amount of leads}
@@ -154,6 +162,7 @@
                 \resumeItem{talk to vendors}
               \resumeItemListEnd
 
+            % Sr Analyst
             \resumeSubSubheading {Senior Analyst, Strategy \& Commercial Analytics}{Nov 2020 - Jul 2022}
               \resumeItemListStart
                 \resumeItem{Utilized Sklearn linear regression to predict patient adherence 
@@ -169,10 +178,13 @@
               \resumeItemListEnd
         \resumeSubHeadingListEnd
       
+    % Axtria
     \resumeHeadingListStart
       \resumeSubheading{Axtria}{Thousand Oaks, CA}
     \resumeHeadingListEnd
       \resumeSubHeadingListStart
+
+        % Decision Science Associate
         \resumeSubSubheading{Decision Science Associate}{Apr 2020 - Oct 2020}
           \resumeItemListStart
             \resumeItem{Developed and regularly presented Tableau frontend/Python backend dashboards which spanned every business unit 
@@ -181,6 +193,7 @@
                         and providing constructive feedback, resulting in timely completion of tasks, positive feedback from stakeholders, and improved quality of work}
           \resumeItemListEnd
 
+          % Decision Science Analyst
           \resumeSubSubheading{Decision Science Analyst}{Mar 2019 - Apr 2020}
           \resumeItemListStart
             \resumeItem{Conducted a patient journey analysis using Python and SQL on a 10+ billion row insurance claims dataset which identfied 
@@ -192,10 +205,13 @@
 
         \resumeSubHeadingListEnd
 
+    % Peoples Gas
     \resumeHeadingListStart
       \resumeSubheading{WEC Energy Group (Peoples Gas)}{Chicago, IL}
     \resumeHeadingListEnd
       \resumeSubHeadingListStart
+
+        % Engineering Student Intern
         \resumeSubSubheading{Engineering Student Intern}{Jun 2017 - Aug 2018}
           \resumeItemListStart
             \resumeItem{Obtained approval for the engineering team to implement a production SQL database by showcasing a proof-of-concept 
@@ -207,7 +223,6 @@
         \resumeSubHeadingListEnd
 
 
-
 %-----------EDUCATION-----------
 \section{\textbf{EDUCATION}} 
     \begin{itemize}[leftmargin=0.05in, label={}]
@@ -215,7 +230,7 @@
         \educationSubheading{University of Illinois Urbana-Champagin}{BS in Engineering Physics (Specialization: Computational Physics)}{Dec 2018}
     \end{itemize}
 
-%
+
 %-----------PROGRAMMING SKILLS-----------
 \section{\textbf{SKILLS}}
     \begin{itemize}[leftmargin=0.05in, label={}]
