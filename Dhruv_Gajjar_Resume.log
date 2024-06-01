@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.23)  1 JUN 2024 10:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.23)  1 JUN 2024 12:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -545,9 +545,9 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/it' aliased to
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/it' will be
 (Font)              scaled to size 10.0pt on input line 149.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 157.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 158.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 6.0pt on input line 157.
+(Font)              scaled to size 6.0pt on input line 158.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -565,15 +565,15 @@ Package rerunfilecheck Info: File `Dhruv_Gajjar_Resume.out' has not changed.
 (rerunfilecheck)             Checksum: 8D0634315E4C8246E21E2C48726FC4CC;254.
  ) 
 Here is how much of TeX's memory you used:
- 11972 strings out of 474116
- 190280 string characters out of 5743682
- 1969187 words of memory out of 5000000
- 34161 multiletter control sequences out of 15000+600000
+ 11971 strings out of 474116
+ 190265 string characters out of 5743682
+ 1968187 words of memory out of 5000000
+ 34160 multiletter control sequences out of 15000+600000
  684181 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,80p,303b,458s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-BoldIt.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on Dhruv_Gajjar_Resume.pdf (1 page, 206787 bytes).
+Output written on Dhruv_Gajjar_Resume.pdf (1 page, 206119 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream
