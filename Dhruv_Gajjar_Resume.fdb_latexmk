@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1717262682.52302 "/Users/dgajjar/Documents/work/resume/Dhruv_Gajjar_Resume.tex" "Dhruv_Gajjar_Resume.pdf" "Dhruv_Gajjar_Resume" 1717262683.47451 0
-  "/Users/dgajjar/Documents/work/resume/Dhruv_Gajjar_Resume.tex" 1717262682.34331 12596 8de34c3d8491d23bb289b6cc22781f8d ""
+["pdflatex"] 1717265079.57226 "/Users/dgajjar/Documents/work/resume/Dhruv_Gajjar_Resume.tex" "Dhruv_Gajjar_Resume.pdf" "Dhruv_Gajjar_Resume" 1717265080.46746 0
+  "/Users/dgajjar/Documents/work/resume/Dhruv_Gajjar_Resume.tex" 1717265079.33138 12851 8d7bf4b1016d069ae327cd6d1e1b9683 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/sourcesanspro/a_4jropk.enc" 1587936753 3267 177411e539fcc6ace86309ff03b22da6 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc" 1587936753 3021 665788e9679767ade2a71155215d25e0 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -111,9 +111,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1713913576.68083 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1713913433 8221417 7df74ec6613f544579330099a396d3a5 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "Dhruv_Gajjar_Resume.aux" 1717262683.35532 591 3cb0058c1f6eaf04ef0b85f577c2e82d "pdflatex"
-  "Dhruv_Gajjar_Resume.out" 1717262683.35597 254 8d0634315e4c8246e21e2c48726fc4cc "pdflatex"
-  "Dhruv_Gajjar_Resume.tex" 1717262682.34331 12596 8de34c3d8491d23bb289b6cc22781f8d ""
+  "Dhruv_Gajjar_Resume.aux" 1717265080.35179 591 3cb0058c1f6eaf04ef0b85f577c2e82d "pdflatex"
+  "Dhruv_Gajjar_Resume.out" 1717265080.35245 254 8d0634315e4c8246e21e2c48726fc4cc "pdflatex"
+  "Dhruv_Gajjar_Resume.tex" 1717265079.33138 12851 8d7bf4b1016d069ae327cd6d1e1b9683 ""
   (generated)
   "Dhruv_Gajjar_Resume.aux"
   "Dhruv_Gajjar_Resume.log"
